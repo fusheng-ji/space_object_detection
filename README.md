@@ -1,7 +1,7 @@
 # Space object detection
 Based on SMA and YOLO V7 and Blender Simulation
 
-![1](assets/results.PNG)
+![1](assets/results.png)
 
 ## Simulating data with Blender
 
